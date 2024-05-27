@@ -2,8 +2,6 @@
 
 Meu nome é Bruno e sou um entusiasta do desenvolvimento front-end, especializado em React e TypeScript. Com uma sólida experiência em Full Stack, tenho um histórico comprovado na entrega bem-sucedida de projetos de ponta a ponta. Tenho uma paixão ardente por criar interfaces intuitivas que não apenas funcionam, mas também encantam os usuários. Estou sempre pronto para abraçar desafios que impulsionem meu crescimento profissional e me permitam aprimorar minhas habilidades técnicas.
 
-Atualmente, ocupo a posição de desenvolvedor Full Stack na empresa [Viasoft](https://viasoft.com.br/), onde estou envolvido no desenvolvimento contínuo da plataforma [Voors](https://voors.com.br).
-
 Como um hobby apaixonante, estou atualmente imerso no desenvolvimento de uma plataforma para gerenciamento de planejamento financeiro, explorando a tecnologia em ascensão conhecida como [bun](https://bun.sh/), juntamente com o framework [Elysia](https://elysiajs.com/) para o back-end. No front-end, estou utilizando meu framework preferido, React, enquanto para a estilização, estou adotando o [tailwindcss](https://tailwindcss.com/).
 
  <div>
