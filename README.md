@@ -1,8 +1,16 @@
-### Hi, I'm Bruno Fontana 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Bruno+Fontana+%F0%9F%91%8B;Software+Engineer;TypeScript+%2B+React+%2B+Node.js;Go+for+performance-critical+services;Clean+Architecture+%7C+AI-driven+products" alt="Typing SVG" />
+  </a>
+</div>
 
-Software Engineer focused on building scalable full-stack applications.  
-I work mainly with **TypeScript**, **React**, and **Node.js**, with **Go** for performance-critical services.  
-Passionate about clean architecture, developer experience, and AI-driven products.
+<br>
+
+<p align="center">
+  Software Engineer focused on building scalable full-stack applications.<br>
+  I work mainly with <strong>TypeScript</strong>, <strong>React</strong>, and <strong>Node.js</strong>, with <strong>Go</strong> for performance-critical services.<br>
+  Passionate about clean architecture, developer experience, and AI-driven products.
+</p>
 
 ---
 
@@ -43,14 +51,26 @@ Passionate about clean architecture, developer experience, and AI-driven product
 
 ---
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obrunofontana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunofontana&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=obrunofontana&theme=dracula&no-frame=true&row=1&column=6" alt="trophies"/>
 </div>
 
 ---
 
-<div>
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=obrunofontana&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunofontana&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=obrunofontana&theme=dracula&hide_border=true&area=true" alt="activity graph"/>
+</div>
+
+---
+
+<div align="center">
   <a href="https://www.linkedin.com/in/bruno-fontana-380877167/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -64,4 +84,6 @@ Passionate about clean architecture, developer experience, and AI-driven product
 
 <br>
 
-![Snake animation](https://github.com/obrunofontana/obrunofontana/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/obrunofontana/obrunofontana/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
