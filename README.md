@@ -29,5 +29,5 @@ Most public repositories here are experiments, learning projects, or older work.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/bruno-fontana-380877167/)  
+[LinkedIn](https://br.linkedin.com/in/bruno-fontana-380877167)  
 [Email](mailto:obrunofontana@gmail.com)
