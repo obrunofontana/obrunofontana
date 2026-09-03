@@ -20,9 +20,9 @@ Most of my day-to-day engineering work happens in private repositories, so this 
 **Mobile:** React Native, Expo, Flutter, Android/native when needed  
 **Infra:** Docker, GitHub Actions, Fly.io, Supabase
 
-## Public Work
+## Public Repositories
 
-Most public repositories here are experiments, learning projects, or older work. A few that better represent my current direction:
+Most public repositories here are experiments, learning projects, or older work. They are not the main representation of my current day-to-day engineering work, but these are closer to the kind of systems and technical decisions I work with:
 
 - [lms](https://github.com/obrunofontana/lms) - full-stack LMS built with Next.js, Prisma, Stripe, Clerk, Mux, Tailwind CSS, and shadcn/ui
 - [codebank](https://github.com/obrunofontana/codebank) - Go microservice using Clean Architecture, gRPC, Kafka, PostgreSQL, and Docker
