@@ -1,92 +1,33 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Bruno+Fontana+%F0%9F%91%8B;Software+Engineer;TypeScript+%2B+React+%2B+Node.js;Go+for+performance-critical+services;Clean+Architecture+%7C+AI-driven+products" alt="Typing SVG" />
-  </a>
-</div>
+# Bruno Fontana
 
-<br>
+Software Engineer / Full-Stack Developer building web, mobile, and backend systems.
 
-<p align="center">
-  Software Engineer focused on building scalable full-stack applications.<br>
-  I work mainly with <strong>TypeScript</strong>, <strong>React</strong>, and <strong>Node.js</strong>, with <strong>Go</strong> for performance-critical services.<br>
-  Passionate about clean architecture, developer experience, and AI-driven products.
-</p>
+I work mostly with TypeScript, React, Next.js, Node.js, PostgreSQL, and production infrastructure. My day-to-day work involves product engineering, APIs, integrations, deploys, and operational concerns across real applications.
 
----
+Most of my day-to-day engineering work happens in private repositories, so this profile does not reflect the full scope of my professional codebase activity.
 
-**Frontend**
+## Current Focus
 
-<div>
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-</div>
+- Building and maintaining production web applications, mobile apps, and backend services
+- Designing REST APIs, real-time flows with WebSockets, and database-backed features
+- Working with payment, POS, hardware, and third-party integrations
+- Deploying and operating applications with Docker, GitHub Actions, Fly.io, and Supabase
 
-<br>
+## Stack
 
-**Backend & Infra**
+**Frontend:** TypeScript, React, Next.js, Tailwind CSS, shadcn/ui, React Query  
+**Backend:** Node.js, NestJS, PostgreSQL, Prisma, Redis, REST APIs, WebSockets  
+**Mobile:** React Native, Expo, Flutter, Android/native when needed  
+**Infra:** Docker, GitHub Actions, Fly.io, Supabase
 
-<div>
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="Apache Kafka" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
-</div>
+## Public Work
 
-<br>
+Most public repositories here are experiments, learning projects, or older work. A few that better represent my current direction:
 
-**Also working with**
+- [lms](https://github.com/obrunofontana/lms) - full-stack LMS built with Next.js, Prisma, Stripe, Clerk, Mux, Tailwind CSS, and shadcn/ui
+- [codebank](https://github.com/obrunofontana/codebank) - Go microservice using Clean Architecture, gRPC, Kafka, PostgreSQL, and Docker
 
-<div>
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img alt="Expo Modules" src="https://img.shields.io/badge/Expo_Modules_(Kotlin)-000020?style=flat-square&logo=expo&logoColor=white">
-  <img alt="Drizzle" src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black">
-  <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white">
-</div>
+## Contact
 
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=obrunofontana&theme=dracula&no-frame=true&row=1&column=6" alt="trophies"/>
-</div>
-
----
-
-<div align="center">
-  <img height="160em" src="https://streak-stats.demolab.com/?user=obrunofontana&theme=dracula&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=obrunofontana&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=obrunofontana&theme=dracula&hide_border=true&area=true" alt="activity graph"/>
-</div>
-
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/bruno-fontana-380877167/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:obrunofontana@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://instagram.com/obrunofontana" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/obrunofontana/obrunofontana/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
+[LinkedIn](https://www.linkedin.com/in/bruno-fontana-380877167/)  
+[Email](mailto:obrunofontana@gmail.com)
